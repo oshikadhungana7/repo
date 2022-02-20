@@ -1,3 +1,3 @@
 # Schoolmanagement
-oshikadhungana
+oshikadhunganaa
 Asssignment of webdevelopment.
